@@ -1,25 +1,24 @@
-Build project
-cd streamco
+# Build
 npm Build
 
-Start project
+# Start
 cd streamco
 npm Start
 
-Demo Site
+# Demo Site
 http://jvis.s3-website-ap-southeast-2.amazonaws.com/
 
 Build files are stored in dist
 
-##Architecture
+## Architecture
 
 Utilizng create react app with React Router Dom & basic browser apis like fetch is all that is required for an app like this, it is very light and simple
 There are only 2 stateful components in the entire app, movies and series 
 
-##Improvments
+## Improvments
 I could definitly have create one "renderer" component as some of the code in the Series & Movies component is resued.
 
-##Differently
+## Differently
 
 Wouldnt use fetch, as this is not the most cross device/ browser compatible ajax request, 
 Break everything into smaller components
