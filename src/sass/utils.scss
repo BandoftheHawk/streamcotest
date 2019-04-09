@@ -1,0 +1,41 @@
+*,h1,h2,h3,h4,h5,h6,p,span,a,li{
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-weight:bold;
+}
+.button {
+
+  display: inline-block;
+  padding: 0 0.75rem;
+  border: 1px solid transparent;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 0.025em;
+  white-space: nowrap;
+  background-image: none;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+
+}
+.button.grey{
+  font-size: 18px;
+  height:40px;
+  line-height:40px;
+  font-weight: 400;
+  background-image: -webkit-linear-gradient(top, #444444 0, #333333 100%);
+  background-image: -moz-linear-gradient(top, #444444 0, #333333 100%);
+  background-image: -o-linear-gradient(top, #444444 0, #333333 100%);
+  background-image: -ms-linear-gradient(top, #444444 0, #333333 100%);
+  background-image: linear-gradient(to bottom, #444444 0, #333333 100%);
+  background-color: #09f;
+  :hover{
+    background-color: #0065a8;
+    border-color: #003d66;
+  }
+}
