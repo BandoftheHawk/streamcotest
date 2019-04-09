@@ -1,8 +1,10 @@
+
 # Build
+npm i
 npm Build
 
 # Start
-cd streamco
+npm i
 npm Start
 
 # Demo Site
