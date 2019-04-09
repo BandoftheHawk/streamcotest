@@ -33,6 +33,7 @@ Create a 100vw grid
 
 Use Styled Component Library
 
+GZIP Everything i can!
 
 Some react apps ive build recently 
 
