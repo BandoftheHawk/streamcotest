@@ -1,12 +1,9 @@
 
 # Build
 npm i 
-
 npm Build
 
 # Start
-npm i
-
 npm Start
 
 # Demo Site
