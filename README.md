@@ -6,6 +6,9 @@ Start project
 cd streamco
 npm Start
 
+Demo Site
+http://jvis.s3-website-ap-southeast-2.amazonaws.com/
+
 Build files are stored in dist
 
 ##Architecture
