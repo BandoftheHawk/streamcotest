@@ -37,7 +37,7 @@ GZIP Everything i can!
 
 Some react apps ive build recently 
 
-http://prismic-boilerplate.s3-website-ap-southeast-2.amazonaws.com 
+http://kbfoods-env.3trmnp2rhx.ap-southeast-2.elasticbeanstalk.com/
 (unfinished & not launched yet) Pretty heavy 4 level filter in products/retail
 
 (I basically created a page builder with the headless CMS Prismic)
